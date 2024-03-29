@@ -1,4 +1,4 @@
-# mw-vocab-def
+# Merriam-Webster Vocabulary Definitions
 bunnysaini/mw-vocab-def
 
 # Features
