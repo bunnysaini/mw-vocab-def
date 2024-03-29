@@ -10,7 +10,7 @@ If you're learning a set of words for any competitive test to enhance your vocab
 ## Steps to Use 
 - Create a Dev Account on [Merriam Webster Developer Center](https://dictionaryapi.com) and generate an API Key - to fetch word definitions.
   - The API is restricted to 1000 queries per day.
-  - The URL used in this project is for the Merriam-Webster's Collegiate Dictionary, if you use another dictionary update the URL on `Line 29` under Section: `Fetch Definitions`.
+  - The URL used in this project is for the Merriam-Webster's Collegiate Dictionary, if you use another dictionary update the URL and any parts that handle traversing the API response.
 - Replace the API Key in code or use as a Secret.
 - Run the code with Input file name and path in mind.
 - Alternatively declare dictionary in code for a smaller volume of words.
